@@ -50,3 +50,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Adam Crymble Publishes Technology and the Historian
 
 This book is cool but long and [can be accessed here](https://www.ucl.ac.uk/information-studies/sites/information_studies/files/styles/small_image/public/adam_crymble.png?itok=9oeDerIZ) 
+
+
+theme: jekyll-theme-minimal
+title: "Catherine Mullen, PhD"
+description: "PhD Candidate, Department of Foklore and Ethnomusicology, Indiana University"
+logo: /assets/img/Mullen_Catherine.jpg
+author: "Catherine Mullen, PhD"
+theme: jekyll-theme-minimal
+title: "Catherine Mullen, PhD"
+description: "PhD Candidate, Department of Foklore and Ethnomusicology, Indiana University"
+logo: /assets/img/Mullen_Catherine.jpg
+author: "Catherine Mullen, PhD"
