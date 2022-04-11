@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Adam Crymble Publishes Technology and the Historian
 
-This book is cool but long [can be accessed here](https://www.ucl.ac.uk/information-studies/sites/information_studies/files/styles/small_image/public/adam_crymble.png?itok=9oeDerIZ) 
+This book is cool but long and [can be accessed here](https://www.ucl.ac.uk/information-studies/sites/information_studies/files/styles/small_image/public/adam_crymble.png?itok=9oeDerIZ) 
