@@ -1,3 +1,13 @@
+---
+permalink:/index.html
+---
+
+Adam Crymble Publishes Technology and the Historian
+
+This book is cool but long and [can be accessed here](https://www.ucl.ac.uk/information-studies/sites/information_studies/files/styles/small_image/public/adam_crymble.png?itok=9oeDerIZ) 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalanicraig/H301Spr2022IUB.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
