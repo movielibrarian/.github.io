@@ -36,3 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+### Adam Crymble Publishes Technology and the Historian
+
+This book is cool but long [can be accessed here](https://www.ucl.ac.uk/information-studies/sites/information_studies/files/styles/small_image/public/adam_crymble.png?itok=9oeDerIZ) 
