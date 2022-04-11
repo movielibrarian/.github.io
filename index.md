@@ -1,5 +1,5 @@
 ---
-permalink:/index.html
+permalink: /index.html
 ---
 
 Adam Crymble Publishes Technology and the Historian
