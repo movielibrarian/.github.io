@@ -2,6 +2,10 @@
 permalink: /index.html
 ---
 
+## My Timeline
+
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BKLR3tG81FJbxkGU0UpmGe2nn0dl3GRDNsS9bjr-fqg&font=Default&lang=en&initial_zoom=2&height=650" width="100%" frameborder="0"></iframe>
+
 Adam Crymble Publishes Technology and the Historian
 
 This book is cool but long and [can be accessed here](https://www.ucl.ac.uk/information-studies/sites/information_studies/files/styles/small_image/public/adam_crymble.png?itok=9oeDerIZ) 
