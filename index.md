@@ -2,21 +2,18 @@
 permalink: /index.html
 ---
 
-## My Timeline
-
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BKLR3tG81FJbxkGU0UpmGe2nn0dl3GRDNsS9bjr-fqg&font=Default&lang=en&initial_zoom=2&height=650" width="100%" frameborder="0"></iframe>
-
-Adam Crymble Publishes Technology and the Historian
-
-This book is cool but long and [can be accessed here](https://www.ucl.ac.uk/information-studies/sites/information_studies/files/styles/small_image/public/adam_crymble.png?itok=9oeDerIZ) 
-
-
-
-## Welcome to GitHub Pages
+## Introduction 
 
 You can use the [editor on GitHub](https://github.com/kalanicraig/H301Spr2022IUB.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+## A Timeline of the Male Gaze in 2000's Science Fiction
+
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BKLR3tG81FJbxkGU0UpmGe2nn0dl3GRDNsS9bjr-fqg&font=Default&lang=en&initial_zoom=2&height=650" width="100%" frameborder="0"></iframe>
+
 
 ### Markdown
 
