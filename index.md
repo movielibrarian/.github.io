@@ -6,14 +6,19 @@ permalink: /index.html
 
 Introductory paragraph here 
 
+### Timeline Process
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ## A Timeline of the Male Gaze in 2000's Science Fiction
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTry24MhLcay3BbRrD8O1myRwdl8KyYYMRqLXGNIJkXH1FEvLjLjQ7xqI3tr5MS0NXzaxwGop8Ermd7/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTry24MhLcay3BbRrD8O1myRwdl8KyYYMRqLXGNIJkXH1FEvLjLjQ7xqI3tr5MS0NXzaxwGop8Ermd7/pubhtml?widget=true&amp;headers=false"></iframe> 
 
+### Text Analysis: What is the Male Gaze? 
 
-### Markdown
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### A Term Over Time: Ngram Viewer 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
