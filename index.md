@@ -14,7 +14,7 @@ Smaller questions here
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cCgFt5zqN7F9UbEdTIBPkZLmYyG31CNetSfUOcX9FCU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### Timeline Process
+### Timeline Process: Challenges, Pros/Cons, Findings
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -22,16 +22,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Text Analysis Results: 
+### Text Analysis Results: What Scholars Had to Say
 
 text here 
 
 ### A Term Over Time: Ngram Viewer 
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=male+gaze&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2Cmale%20gaze%3B%2Cc0#t1%3B%2Cmale%20gaze%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>`
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=male+gaze&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2Cmale%20gaze%3B%2Cc0#t1%3B%2Cmale%20gaze%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
 
 ### Interpretation and Conclusion 
+
+Transition from academia to the screen. This beast has manifested. 
 
 
 
