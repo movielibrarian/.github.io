@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## A Timeline of the Male Gaze in 2000's Science Fiction
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTry24MhLcay3BbRrD8O1myRwdl8KyYYMRqLXGNIJkXH1FEvLjLjQ7xqI3tr5MS0NXzaxwGop8Ermd7/pubhtml?widget=true&amp;headers=false"></iframe> 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cCgFt5zqN7F9UbEdTIBPkZLmYyG31CNetSfUOcX9FCU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### Text Analysis: What is the Male Gaze? 
 
