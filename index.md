@@ -70,4 +70,5 @@ author: "Catherine Mullen, PhD"
 
 ### Google Ngram
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=swim+team%2Cswimming+team&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cswim%20team%3B%2Cc0%3B.t1%3B%2Cswimming%20team%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>`
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=male+gaze&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2Cmale%20gaze%3B%2Cc0#t1%3B%2Cmale%20gaze%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>`
+
