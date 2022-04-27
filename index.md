@@ -20,27 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### A Term Over Time: Ngram Viewer 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=male+gaze&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2Cmale%20gaze%3B%2Cc0#t1%3B%2Cmale%20gaze%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>`
 
 ### Jekyll Themes
 
@@ -66,9 +46,4 @@ title: "Catherine Mullen, PhD"
 description: "PhD Candidate, Department of Foklore and Ethnomusicology, Indiana University"
 logo: /assets/img/Mullen_Catherine.jpg
 author: "Catherine Mullen, PhD"
-
-
-### Google Ngram
-
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=male+gaze&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2Cmale%20gaze%3B%2Cc0#t1%3B%2Cmale%20gaze%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>`
 
