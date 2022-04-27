@@ -10,7 +10,7 @@ Introductory paragraph here
 
 ## A Timeline of the Male Gaze in 2000's Science Fiction
 
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BKLR3tG81FJbxkGU0UpmGe2nn0dl3GRDNsS9bjr-fqg&font=Default&lang=en&initial_zoom=2&height=650" width="100%" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTry24MhLcay3BbRrD8O1myRwdl8KyYYMRqLXGNIJkXH1FEvLjLjQ7xqI3tr5MS0NXzaxwGop8Ermd7/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 ### Markdown
