@@ -6,13 +6,17 @@ permalink: /index.html
 
 Introductory paragraph here / main question
 
-### Breaking down "The Male Gaze"
+## Breaking Down the Male Gaze 
 
 Smaller questions here
 
 ## Ngram Viewer: A Term Over Time 
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=male+gaze&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2Cmale%20gaze%3B%2Cc0#t1%3B%2Cmale%20gaze%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
+## Introduction 
+
+What does this mean? 
 
 ## A Timeline of the Male Gaze in 2000's Science Fiction
 
@@ -35,40 +39,19 @@ text here
 
 ## Interpretation and Conclusion 
 
-Transition from academia to the screen. This beast has manifested. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Transition from academia to the screen. This beast has manifested. Male gaze has been rooted in cinema, grown in academia, and invaded modern films again. 
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalanicraig/H301Spr2022IUB.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
 ## Citations
 
 insert here
+
+### About the Author
+
+Abby Welch is a Media and Cinema Arts Major with a concentration in Screenwriting. She has completed her minor in Spanish and is pursuing a minor in History. She will attend Indiana University for a fifth year in the ALA accredited 4+1 Masters in Library Sciences Program. This summer she will study in Los Angeles with the Media School's Semester in LA program. 
 
 
 theme: jekyll-theme-minimal
