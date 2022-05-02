@@ -20,7 +20,7 @@ What does this mean?
 
 ## A Timeline of the Male Gaze in 2000's Science Fiction
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cCgFt5zqN7F9UbEdTIBPkZLmYyG31CNetSfUOcX9FCU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cCgFt5zqN7F9UbEdTIBPkZLmYyG31CNetSfUOcX9FCU&font=Default&lang=en&initial_zoom=2&height=650'  width=900 height=650 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
 ### Timeline Process: Challenges, Pros/Cons, Findings
 
