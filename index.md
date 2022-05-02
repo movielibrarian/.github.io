@@ -34,16 +34,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 text here 
 
-
-
-
 ## Interpretation and Conclusion 
 
 Transition from academia to the screen. This beast has manifested. Male gaze has been rooted in cinema, grown in academia, and invaded modern films again. 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalanicraig/H301Spr2022IUB.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Citations
 
@@ -53,15 +46,4 @@ insert here
 
 Abby Welch is a Media and Cinema Arts Major with a concentration in Screenwriting. She has completed her minor in Spanish and is pursuing a minor in History. She will attend Indiana University for a fifth year in the ALA accredited 4+1 Masters in Library Sciences Program. This summer she will study in Los Angeles with the Media School's Semester in LA program. 
 
-
-theme: jekyll-theme-minimal
-title: "Catherine Mullen, PhD"
-description: "PhD Candidate, Department of Foklore and Ethnomusicology, Indiana University"
-logo: /assets/img/Mullen_Catherine.jpg
-author: "Catherine Mullen, PhD"
-theme: jekyll-theme-minimal
-title: "Catherine Mullen, PhD"
-description: "PhD Candidate, Department of Foklore and Ethnomusicology, Indiana University"
-logo: /assets/img/Mullen_Catherine.jpg
-author: "Catherine Mullen, PhD"
 
