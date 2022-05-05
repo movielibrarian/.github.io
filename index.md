@@ -44,6 +44,6 @@ insert here
 
 ## About the Historian
 
-Abby Welch is a rising senior studying Media and Cinema Arts Major with a concentration in Screenwriting. She has completed her minor in Spanish and is pursuing a minor in History. She will attend Indiana University for a fifth year in the ALA accredited 4+1 Masters in Library Sciences Program. This summer she will study in Los Angeles with the Media School's Semester in LA program, interning with Tucker Tooley Entertainment. 
+Abby Welch is a rising senior studying Media and Cinema Arts Major with a concentration in Screenwriting. She has completed her minor in Spanish and is pursuing a minor in History. She will attend Indiana University for a fifth year in the ALA accredited 4+1 Masters in Library Sciences Program. This summer she will study in Los Angeles with the Media School's Semester in LA program, interning with Aggregate Films, Inc. 
 
 
