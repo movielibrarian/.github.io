@@ -45,7 +45,7 @@ The pros of the timeline have been previously mentioned: the ability to easily s
 
 ## Text Analysis
 
-<iframe src='https://voyant-tools.org/?corpus=247ea2400db2040e505ee3e226076ef4&stopList=keywords-189385e488543f3aefe927f6dcdb248b&panels=cirrus,topics,trends,summary,contexts' frameborder='0'> width=1000 height=800 marginwidth=50 marginheight=50 hspace=0 vspace=0 frameborder=0 scrolling=yes></iframe> 
+<iframe src='https://voyant-tools.org/?corpus=247ea2400db2040e505ee3e226076ef4&stopList=keywords-189385e488543f3aefe927f6dcdb248b&panels=cirrus,topics,trends,summary,contexts' frameborder='0' width=1000 height=800 marginwidth=50 marginheight=50 hspace=0 vspace=0 frameborder=0 scrolling=yes></iframe> 
 
 ### Text Analysis Results: What are scholars saying?
 
