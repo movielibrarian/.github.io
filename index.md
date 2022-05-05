@@ -28,9 +28,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Text Analysis
 
-<iframe src='https://voyant-tools.org/?corpus=247ea2400db2040e505ee3e226076ef4&stopList=keywords-189385e488543f3aefe927f6dcdb248b&panels=cirrus,topics,trends,summary,contexts' frameborder='0'> width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
+<iframe src='https://voyant-tools.org/?corpus=247ea2400db2040e505ee3e226076ef4&stopList=keywords-189385e488543f3aefe927f6dcdb248b&panels=cirrus,topics,trends,summary,contexts' frameborder='0'> width=1000 height=800 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
 
-### Text Analysis Results: What Scholars Had to Say
+### Text Analysis Results: What are scholars saying?
 
 text here 
 
